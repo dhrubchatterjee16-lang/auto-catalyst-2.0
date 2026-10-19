@@ -1,0 +1,42 @@
+{
+  "hydrotreated_vgo": {
+    "name": "Hydrotreated Light VGO",
+    "description": "Severely hydrotreated light gas oil with very low nitrogen and metals.",
+    "nickel_ppm": 0.2,
+    "vanadium_ppm": 0.4,
+    "basic_nitrogen_ppm": 120.0,
+    "conradson_carbon_wt_pct": 0.35,
+    "api_gravity": 26.5,
+    "sulfur_wt_pct": 0.15
+  },
+  "standard_middle_east_vgo": {
+    "name": "Standard Arabian Light VGO",
+    "description": "Baseline commercial refinery feedstock with moderate metals and organic basic nitrogen.",
+    "nickel_ppm": 1.2,
+    "vanadium_ppm": 2.5,
+    "basic_nitrogen_ppm": 850.0,
+    "conradson_carbon_wt_pct": 1.20,
+    "api_gravity": 22.8,
+    "sulfur_wt_pct": 1.85
+  },
+  "severe_resid_dao_blend": {
+    "name": "Severe Vacuum Resid / DAO Blend",
+    "description": "Deep-cut heavy resid with high nickel dehydrogenation and vanadium structural attack propensity.",
+    "nickel_ppm": 4.8,
+    "vanadium_ppm": 9.5,
+    "basic_nitrogen_ppm": 1750.0,
+    "conradson_carbon_wt_pct": 3.80,
+    "api_gravity": 17.2,
+    "sulfur_wt_pct": 3.20
+  },
+  "shale_tight_oil": {
+    "name": "Unconventional Tight Oil VGO",
+    "description": "Paraffinic shale-derived gas oil with low metals but moderate refractory nitrogen.",
+    "nickel_ppm": 0.1,
+    "vanadium_ppm": 0.2,
+    "basic_nitrogen_ppm": 380.0,
+    "conradson_carbon_wt_pct": 0.25,
+    "api_gravity": 31.0,
+    "sulfur_wt_pct": 0.40
+  }
+}

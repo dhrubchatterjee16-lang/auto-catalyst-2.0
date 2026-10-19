@@ -1,0 +1,38 @@
+{
+  "cycle_id": 1,
+  "status": "SUCCESS",
+  "targets": {
+    "target_ron": 95.0,
+    "max_coke_wt": 6.5,
+    "min_gasoline_yield": 43.0
+  },
+  "selected_catalyst_formulation": {
+    "usy_wt_pct": 76.4,
+    "zsm5_wt_pct": 23.6,
+    "parameters": {
+      "zsm5_fraction": 0.23593953046851462,
+      "usy_si_al": 17.226965920576596,
+      "usy_ucs": 24.26482963408138,
+      "usy_re_wt": 0.19420456858794802,
+      "zsm5_si_al": 50.75238255529035,
+      "matrix_alumina_wt": 20.717949302375256,
+      "cat_to_oil": 6.351567922024695,
+      "temp_c": 518.4873285800999
+    }
+  },
+  "predicted_performance": {
+    "ron": 96.48,
+    "coke_wt_pct": 6.41,
+    "gasoline_yield_wt_pct": 44.54
+  },
+  "kinetic_twin_at_1_5s": {
+    "conversion_wt_pct": 77.16,
+    "gasoline_cut_wt_pct": 44.32,
+    "coke_deposit_wt_pct": 7.26
+  },
+  "gcms_resolved_metrics": {
+    "measured_ron": 106.28,
+    "propylene_yield_wt_pct": 3.99,
+    "lpg_total_wt_pct": 15.56
+  }
+}

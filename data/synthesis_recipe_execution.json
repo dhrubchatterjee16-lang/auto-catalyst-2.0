@@ -1,0 +1,37 @@
+{
+  "batch_target_dry_mass_grams": 10.0,
+  "solid_components_grams": {
+    "USY_zeolite_dry_g": 3.052,
+    "ZSM5_zeolite_dry_g": 0.948,
+    "alumina_matrix_dry_g": 2.5,
+    "kaolin_clay_dry_g": 3.485,
+    "lanthanum_promoter_g": 0.015
+  },
+  "liquid_stock_dispensing_ml": {
+    "USY_slurry_20pct_ml": 15.26,
+    "ZSM5_slurry_20pct_ml": 4.74,
+    "alumina_sol_15pct_ml": 16.67,
+    "kaolin_suspension_25pct_ml": 13.94,
+    "rare_earth_solution_ml": 0.3
+  },
+  "thermal_treatment_profile": {
+    "stage_1_drying": {
+      "target_temp_c": 120,
+      "ramp_rate_c_min": 2.5,
+      "hold_time_hours": 2.0,
+      "gas_env": "Air"
+    },
+    "stage_2_calcination": {
+      "target_temp_c": 550,
+      "ramp_rate_c_min": 5.0,
+      "hold_time_hours": 4.0,
+      "gas_env": "Air / N2 sweep"
+    },
+    "stage_3_steaming_activation": {
+      "target_temp_c": 760,
+      "steam_partial_pressure_bar": 1.0,
+      "duration_hours": 2.0,
+      "purpose": "Hydrothermal dealumination to reach target UCS"
+    }
+  }
+}

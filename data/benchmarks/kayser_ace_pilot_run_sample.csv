@@ -1,0 +1,7 @@
+Run_ID,Timestamp,Feedstock_Type,Catalyst_Code,ZSM5_Fraction,USY_UCS_Angstrom,Rare_Earth_Wt_Pct,Matrix_Alumina_Wt,Riser_Temp_C,Cat_to_Oil,Conversion_Wt_Pct,Gasoline_Yield_Wt,Propylene_Yield_Wt,Coke_Wt_Pct,LCO_Diesel_Wt,Dry_Gas_Wt,Measured_RON,ASTM_Method,Mass_Balance_Closure_Pct
+ACE-2026-001,2026-09-12 10:15:00,standard_middle_east_vgo,CAT-USY-ZSM-01,0.05,24.28,1.2,22.0,520.0,5.0,73.4,48.2,5.1,3.8,17.8,2.4,92.8,ASTM D7964,99.8
+ACE-2026-002,2026-09-12 14:30:00,standard_middle_east_vgo,CAT-USY-ZSM-02,0.15,24.25,1.5,25.0,525.0,5.5,75.1,44.8,7.9,4.2,16.5,3.2,95.4,ASTM D7964,100.2
+ACE-2026-003,2026-09-13 09:45:00,severe_resid_dao_blend,CAT-USY-ZSM-03,0.22,24.24,2.2,28.0,535.0,6.2,71.8,40.1,9.8,5.9,18.2,4.5,97.2,ASTM D7964,99.4
+ACE-2026-004,2026-09-13 15:20:00,hydrotreated_vgo,CAT-USY-ZSM-04,0.10,24.31,0.8,20.0,515.0,4.8,78.5,52.3,6.2,3.1,15.1,2.1,93.6,ASTM D7964,100.5
+ACE-2026-005,2026-09-14 11:00:00,standard_middle_east_vgo,CAT-USY-ZSM-05,0.28,24.24,1.8,26.0,530.0,5.8,74.9,41.5,10.6,4.6,16.2,3.9,98.1,ASTM D7964,99.7
+ACE-2026-006,2026-09-14 16:40:00,severe_resid_dao_blend,CAT-USY-ZSM-06,0.30,24.23,2.5,30.0,540.0,6.5,70.5,37.8,11.4,6.5,18.9,5.1,98.9,ASTM D7964,100.1

@@ -1,0 +1,268 @@
+[
+  {
+    "experiment_id": "SEED-001",
+    "cycle": 0,
+    "parameters": {
+      "zsm5_fraction": 0.1624,
+      "usy_ucs_angstrom": 24.4397,
+      "usy_si_al_ratio": 31.96,
+      "rare_earth_wt_pct": 1.098,
+      "matrix_alumina_wt": 21.56,
+      "riser_temp_c": 518.1,
+      "cat_to_oil_ratio": 5.62
+    },
+    "observed_metrics": {
+      "octane_ron": 94.05,
+      "gasoline_yield_wt": 47.08,
+      "coke_wt_pct": 5.78,
+      "propylene_yield_wt": 6.27
+    }
+  },
+  {
+    "experiment_id": "SEED-002",
+    "cycle": 0,
+    "parameters": {
+      "zsm5_fraction": 0.2706,
+      "usy_ucs_angstrom": 24.3662,
+      "usy_si_al_ratio": 31.24,
+      "rare_earth_wt_pct": 0.086,
+      "matrix_alumina_wt": 29.7,
+      "riser_temp_c": 531.6,
+      "cat_to_oil_ratio": 5.92
+    },
+    "observed_metrics": {
+      "octane_ron": 96.88,
+      "gasoline_yield_wt": 44.87,
+      "coke_wt_pct": 5.05,
+      "propylene_yield_wt": 7.79
+    }
+  },
+  {
+    "experiment_id": "SEED-003",
+    "cycle": 0,
+    "parameters": {
+      "zsm5_fraction": 0.12,
+      "usy_ucs_angstrom": 24.2785,
+      "usy_si_al_ratio": 19.13,
+      "rare_earth_wt_pct": 0.968,
+      "matrix_alumina_wt": 24.32,
+      "riser_temp_c": 520.8,
+      "cat_to_oil_ratio": 6.72
+    },
+    "observed_metrics": {
+      "octane_ron": 95.22,
+      "gasoline_yield_wt": 46.43,
+      "coke_wt_pct": 5.96,
+      "propylene_yield_wt": 5.68
+    }
+  },
+  {
+    "experiment_id": "SEED-004",
+    "cycle": 0,
+    "parameters": {
+      "zsm5_fraction": 0.1107,
+      "usy_ucs_angstrom": 24.3014,
+      "usy_si_al_ratio": 20.99,
+      "rare_earth_wt_pct": 0.848,
+      "matrix_alumina_wt": 27.85,
+      "riser_temp_c": 519.0,
+      "cat_to_oil_ratio": 6.53
+    },
+    "observed_metrics": {
+      "octane_ron": 94.78,
+      "gasoline_yield_wt": 46.75,
+      "coke_wt_pct": 5.81,
+      "propylene_yield_wt": 5.55
+    }
+  },
+  {
+    "experiment_id": "SEED-005",
+    "cycle": 0,
+    "parameters": {
+      "zsm5_fraction": 0.2103,
+      "usy_ucs_angstrom": 24.2498,
+      "usy_si_al_ratio": 28.23,
+      "rare_earth_wt_pct": 0.348,
+      "matrix_alumina_wt": 20.65,
+      "riser_temp_c": 534.0,
+      "cat_to_oil_ratio": 7.43
+    },
+    "observed_metrics": {
+      "octane_ron": 97.19,
+      "gasoline_yield_wt": 44.84,
+      "coke_wt_pct": 5.64,
+      "propylene_yield_wt": 6.94
+    }
+  },
+  {
+    "experiment_id": "SEED-006",
+    "cycle": 0,
+    "parameters": {
+      "zsm5_fraction": 0.2578,
+      "usy_ucs_angstrom": 24.304,
+      "usy_si_al_ratio": 12.93,
+      "rare_earth_wt_pct": 1.247,
+      "matrix_alumina_wt": 24.4,
+      "riser_temp_c": 517.4,
+      "cat_to_oil_ratio": 6.49
+    },
+    "observed_metrics": {
+      "octane_ron": 97.39,
+      "gasoline_yield_wt": 44.56,
+      "coke_wt_pct": 6.12,
+      "propylene_yield_wt": 7.61
+    }
+  },
+  {
+    "experiment_id": "SEED-007",
+    "cycle": 0,
+    "parameters": {
+      "zsm5_fraction": 0.0876,
+      "usy_ucs_angstrom": 24.431,
+      "usy_si_al_ratio": 17.76,
+      "rare_earth_wt_pct": 1.209,
+      "matrix_alumina_wt": 23.12,
+      "riser_temp_c": 525.4,
+      "cat_to_oil_ratio": 6.59
+    },
+    "observed_metrics": {
+      "octane_ron": 92.8,
+      "gasoline_yield_wt": 48.13,
+      "coke_wt_pct": 6.12,
+      "propylene_yield_wt": 5.23
+    }
+  },
+  {
+    "experiment_id": "SEED-008",
+    "cycle": 0,
+    "parameters": {
+      "zsm5_fraction": 0.1207,
+      "usy_ucs_angstrom": 24.4436,
+      "usy_si_al_ratio": 33.25,
+      "rare_earth_wt_pct": 1.694,
+      "matrix_alumina_wt": 28.95,
+      "riser_temp_c": 527.0,
+      "cat_to_oil_ratio": 7.34
+    },
+    "observed_metrics": {
+      "octane_ron": 93.25,
+      "gasoline_yield_wt": 47.74,
+      "coke_wt_pct": 6.69,
+      "propylene_yield_wt": 5.69
+    }
+  },
+  {
+    "experiment_id": "SEED-009",
+    "cycle": 0,
+    "parameters": {
+      "zsm5_fraction": 0.0995,
+      "usy_ucs_angstrom": 24.2812,
+      "usy_si_al_ratio": 11.36,
+      "rare_earth_wt_pct": 0.619,
+      "matrix_alumina_wt": 23.89,
+      "riser_temp_c": 520.4,
+      "cat_to_oil_ratio": 7.16
+    },
+    "observed_metrics": {
+      "octane_ron": 94.82,
+      "gasoline_yield_wt": 46.76,
+      "coke_wt_pct": 5.78,
+      "propylene_yield_wt": 5.39
+    }
+  },
+  {
+    "experiment_id": "SEED-010",
+    "cycle": 0,
+    "parameters": {
+      "zsm5_fraction": 0.1585,
+      "usy_ucs_angstrom": 24.299,
+      "usy_si_al_ratio": 26.28,
+      "rare_earth_wt_pct": 0.297,
+      "matrix_alumina_wt": 28.02,
+      "riser_temp_c": 516.5,
+      "cat_to_oil_ratio": 7.47
+    },
+    "observed_metrics": {
+      "octane_ron": 95.66,
+      "gasoline_yield_wt": 46.01,
+      "coke_wt_pct": 5.61,
+      "propylene_yield_wt": 6.22
+    }
+  },
+  {
+    "experiment_id": "SEED-011",
+    "cycle": 0,
+    "parameters": {
+      "zsm5_fraction": 0.2499,
+      "usy_ucs_angstrom": 24.2817,
+      "usy_si_al_ratio": 10.17,
+      "rare_earth_wt_pct": 1.477,
+      "matrix_alumina_wt": 27.07,
+      "riser_temp_c": 529.6,
+      "cat_to_oil_ratio": 7.04
+    },
+    "observed_metrics": {
+      "octane_ron": 97.52,
+      "gasoline_yield_wt": 44.51,
+      "coke_wt_pct": 6.44,
+      "propylene_yield_wt": 7.5
+    }
+  },
+  {
+    "experiment_id": "SEED-012",
+    "cycle": 0,
+    "parameters": {
+      "zsm5_fraction": 0.0963,
+      "usy_ucs_angstrom": 24.3153,
+      "usy_si_al_ratio": 13.48,
+      "rare_earth_wt_pct": 1.56,
+      "matrix_alumina_wt": 26.23,
+      "riser_temp_c": 521.6,
+      "cat_to_oil_ratio": 5.63
+    },
+    "observed_metrics": {
+      "octane_ron": 94.35,
+      "gasoline_yield_wt": 47.08,
+      "coke_wt_pct": 6.16,
+      "propylene_yield_wt": 5.35
+    }
+  },
+  {
+    "experiment_id": "CYC1-BAT1",
+    "cycle": 1,
+    "parameters": {
+      "zsm5_fraction": 0.35,
+      "usy_ucs_angstrom": 24.5,
+      "usy_si_al_ratio": 45.0,
+      "rare_earth_wt_pct": 0.0,
+      "matrix_alumina_wt": 35.0,
+      "riser_temp_c": 510.0,
+      "cat_to_oil_ratio": 4.9381
+    },
+    "observed_metrics": {
+      "octane_ron": 106.28,
+      "gasoline_yield_wt": 9.62,
+      "coke_wt_pct": 2.09,
+      "propylene_yield_wt": 6.99
+    }
+  },
+  {
+    "experiment_id": "CYC1-BAT2",
+    "cycle": 1,
+    "parameters": {
+      "zsm5_fraction": 0.3425,
+      "usy_ucs_angstrom": 24.22,
+      "usy_si_al_ratio": 13.6668,
+      "rare_earth_wt_pct": 0.0,
+      "matrix_alumina_wt": 28.1915,
+      "riser_temp_c": 542.4535,
+      "cat_to_oil_ratio": 4.8852
+    },
+    "observed_metrics": {
+      "octane_ron": 106.28,
+      "gasoline_yield_wt": 8.46,
+      "coke_wt_pct": 2.35,
+      "propylene_yield_wt": 9.54
+    }
+  }
+]

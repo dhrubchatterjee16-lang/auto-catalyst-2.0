@@ -1,0 +1,24 @@
+{
+  "resolved_yields_wt_pct": {
+    "dry_gas": 1.21,
+    "lpg_total": 15.56,
+    "propylene_olefin": 3.99,
+    "gasoline_cut": 74.86,
+    "lco_diesel_cut": 8.37
+  },
+  "gasoline_octane_ron": 106.28,
+  "piona_component_distribution": {
+    "Dry_Gas_C1_C2": 1.21,
+    "Propylene_C3=": 3.99,
+    "Propane_C3": 2.46,
+    "Isobutane_iC4": 3.84,
+    "Butenes_C4=": 3.19,
+    "n_Butane_nC4": 2.08,
+    "Isopentane_iC5": 7.48,
+    "n_Pentane_nC5": 1.94,
+    "Isooctane_Isoparaffins": 22.89,
+    "Benzene_Toluene_Aromatics": 26.15,
+    "Heavy_Aromatics_C9_C10": 16.4,
+    "Diesel_LCO_Cut": 8.37
+  }
+}

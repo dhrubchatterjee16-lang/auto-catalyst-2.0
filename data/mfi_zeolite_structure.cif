@@ -1,0 +1,28 @@
+#======================================================================
+# CRYSTALLOGRAPHIC INFORMATION FILE (CIF)
+# Zeolite Framework Topology: ZSM-5 [MFI]
+# Source: International Zeolite Association (IZA-SC) Database
+# Exported by Auto-Catalyst 2.0 Crystallography Engine
+#======================================================================
+
+data_MFI
+_audit_creation_method            'Auto-Catalyst 2.0 Framework Engine'
+_chemical_name_systematic         'Zeolite ZSM-5'
+_symmetry_cell_setting            orthorhombic
+_symmetry_space_group_name_H-M    'Pnma'
+
+_cell_length_a                    20.090
+_cell_length_b                    19.740
+_cell_length_c                    13.140
+_cell_angle_alpha                 90.0
+_cell_angle_beta                  90.0
+_cell_angle_gamma                 90.0
+
+_chemical_formula_sum             'Si192 O384'
+_cell_formula_units_Z             1
+
+# Framework Topological Metrics
+_zeolite_ring_sizes               '[10, 6, 5]'
+_zeolite_pore_diameter_pld        5.4
+_zeolite_cavity_diameter_lcd      6.36
+_zeolite_pore_volume_fraction     0.18

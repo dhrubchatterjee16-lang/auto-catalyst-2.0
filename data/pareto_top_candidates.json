@@ -1,0 +1,222 @@
+[
+  {
+    "rank": 1,
+    "predicted_ron": 98.06,
+    "predicted_coke_wt": 7.04,
+    "predicted_gasoline_yield": 38.3,
+    "params": {
+      "zeolite_type": "ZSM-5",
+      "si_al_ratio": 54.20037247917503,
+      "unit_cell_size": 24.24286880453591,
+      "rare_earth_wt": 0.3999276279736576,
+      "matrix_alumina_wt": 28.315431661375577,
+      "binder_clay_wt": 27.12101235943669,
+      "bet_surface_area": 263.07891695190096,
+      "zeolite_surface_area": 225.33900675718556,
+      "total_pore_volume": 0.25401423955554525,
+      "bronsted_acid": 99.04713796249607,
+      "lewis_acid": 98.51575748968841,
+      "temp_c": 514.7373808480062,
+      "cat_to_oil": 4.859286395457754,
+      "residence_time": 2.144894872091223
+    }
+  },
+  {
+    "rank": 2,
+    "predicted_ron": 98.02,
+    "predicted_coke_wt": 7.09,
+    "predicted_gasoline_yield": 40.86,
+    "params": {
+      "zeolite_type": "ZSM-5",
+      "si_al_ratio": 53.24602974472096,
+      "unit_cell_size": 24.29318378990145,
+      "rare_earth_wt": 0.01220039077826901,
+      "matrix_alumina_wt": 25.97837271425546,
+      "binder_clay_wt": 29.423610735622688,
+      "bet_surface_area": 305.35377471621143,
+      "zeolite_surface_area": 265.1449616271341,
+      "total_pore_volume": 0.39952187603525025,
+      "bronsted_acid": 136.11970550111795,
+      "lewis_acid": 88.76466598083164,
+      "temp_c": 511.18201129165095,
+      "cat_to_oil": 5.651673664119635,
+      "residence_time": 2.5435528611139886
+    }
+  },
+  {
+    "rank": 3,
+    "predicted_ron": 97.99,
+    "predicted_coke_wt": 7.16,
+    "predicted_gasoline_yield": 41.82,
+    "params": {
+      "zeolite_type": "ZSM-5",
+      "si_al_ratio": 49.79576654239147,
+      "unit_cell_size": 24.31274190990936,
+      "rare_earth_wt": 0.03367530073438585,
+      "matrix_alumina_wt": 32.41842913410377,
+      "binder_clay_wt": 35.7235711694971,
+      "bet_surface_area": 360.39552216432844,
+      "zeolite_surface_area": 242.909946132544,
+      "total_pore_volume": 0.4106961860769697,
+      "bronsted_acid": 184.35279185138342,
+      "lewis_acid": 57.92343029651521,
+      "temp_c": 544.8593413330676,
+      "cat_to_oil": 5.53700184997159,
+      "residence_time": 2.990505142000673
+    }
+  },
+  {
+    "rank": 4,
+    "predicted_ron": 97.9,
+    "predicted_coke_wt": 7.0,
+    "predicted_gasoline_yield": 40.42,
+    "params": {
+      "zeolite_type": "ZSM-5",
+      "si_al_ratio": 50.16915175696071,
+      "unit_cell_size": 24.244252694782084,
+      "rare_earth_wt": 0.46601405275500873,
+      "matrix_alumina_wt": 18.18721655829956,
+      "binder_clay_wt": 26.06176259086824,
+      "bet_surface_area": 347.5672585247286,
+      "zeolite_surface_area": 192.81978283464719,
+      "total_pore_volume": 0.25401423955554525,
+      "bronsted_acid": 184.35279185138342,
+      "lewis_acid": 44.71855474722465,
+      "temp_c": 541.5978287919438,
+      "cat_to_oil": 4.807529183972038,
+      "residence_time": 2.890527280739895
+    }
+  },
+  {
+    "rank": 5,
+    "predicted_ron": 97.86,
+    "predicted_coke_wt": 7.05,
+    "predicted_gasoline_yield": 40.49,
+    "params": {
+      "zeolite_type": "ZSM-5",
+      "si_al_ratio": 34.26624168959236,
+      "unit_cell_size": 24.24286880453591,
+      "rare_earth_wt": 0.22370618341172732,
+      "matrix_alumina_wt": 28.315431661375577,
+      "binder_clay_wt": 26.06176259086824,
+      "bet_surface_area": 263.07891695190096,
+      "zeolite_surface_area": 192.81978283464719,
+      "total_pore_volume": 0.25401423955554525,
+      "bronsted_acid": 199.16929126577597,
+      "lewis_acid": 84.40408146927437,
+      "temp_c": 514.7373808480062,
+      "cat_to_oil": 4.859286395457754,
+      "residence_time": 2.890527280739895
+    }
+  },
+  {
+    "rank": 6,
+    "predicted_ron": 97.78,
+    "predicted_coke_wt": 6.99,
+    "predicted_gasoline_yield": 41.07,
+    "params": {
+      "zeolite_type": "ZSM-5",
+      "si_al_ratio": 30.97182088390721,
+      "unit_cell_size": 24.244252694782084,
+      "rare_earth_wt": 0.3541814883575174,
+      "matrix_alumina_wt": 18.18721655829956,
+      "binder_clay_wt": 29.93218226400918,
+      "bet_surface_area": 347.5672585247286,
+      "zeolite_surface_area": 198.46130860988995,
+      "total_pore_volume": 0.3545465658763988,
+      "bronsted_acid": 184.35279185138342,
+      "lewis_acid": 45.33801661625999,
+      "temp_c": 504.8551142146987,
+      "cat_to_oil": 4.594287557060203,
+      "residence_time": 2.542724443347596
+    }
+  },
+  {
+    "rank": 7,
+    "predicted_ron": 97.68,
+    "predicted_coke_wt": 7.12,
+    "predicted_gasoline_yield": 42.0,
+    "params": {
+      "zeolite_type": "ZSM-5",
+      "si_al_ratio": 34.26624168959236,
+      "unit_cell_size": 24.24286880453591,
+      "rare_earth_wt": 0.4751186769104012,
+      "matrix_alumina_wt": 16.13068222276345,
+      "binder_clay_wt": 26.06176259086824,
+      "bet_surface_area": 333.29161244736724,
+      "zeolite_surface_area": 202.44080821411382,
+      "total_pore_volume": 0.44398197043239884,
+      "bronsted_acid": 388.00377709615606,
+      "lewis_acid": 98.99624703434996,
+      "temp_c": 508.3309817977379,
+      "cat_to_oil": 5.050213529560302,
+      "residence_time": 2.890527280739895
+    }
+  },
+  {
+    "rank": 8,
+    "predicted_ron": 97.76,
+    "predicted_coke_wt": 7.38,
+    "predicted_gasoline_yield": 43.36,
+    "params": {
+      "zeolite_type": "ZSM-5",
+      "si_al_ratio": 29.143428138809988,
+      "unit_cell_size": 24.231382552536907,
+      "rare_earth_wt": 0.264468567013606,
+      "matrix_alumina_wt": 35.26383326954583,
+      "binder_clay_wt": 44.68190323287361,
+      "bet_surface_area": 331.3558729749917,
+      "zeolite_surface_area": 271.4694777918055,
+      "total_pore_volume": 0.4097566471547331,
+      "bronsted_acid": 86.70076801371098,
+      "lewis_acid": 216.84497385849883,
+      "temp_c": 524.7151999117755,
+      "cat_to_oil": 6.195399550767627,
+      "residence_time": 2.696650823876892
+    }
+  },
+  {
+    "rank": 9,
+    "predicted_ron": 97.81,
+    "predicted_coke_wt": 7.52,
+    "predicted_gasoline_yield": 43.1,
+    "params": {
+      "zeolite_type": "ZSM-5",
+      "si_al_ratio": 43.29588267329768,
+      "unit_cell_size": 24.264323220567,
+      "rare_earth_wt": 0.16993748188403307,
+      "matrix_alumina_wt": 32.297379942317335,
+      "binder_clay_wt": 40.89950301280514,
+      "bet_surface_area": 331.3558729749917,
+      "zeolite_surface_area": 239.705090988655,
+      "total_pore_volume": 0.2846588640141692,
+      "bronsted_acid": 137.88170578830184,
+      "lewis_acid": 92.55100861456502,
+      "temp_c": 524.7151999117755,
+      "cat_to_oil": 7.047670231482534,
+      "residence_time": 2.7247667715287616
+    }
+  },
+  {
+    "rank": 10,
+    "predicted_ron": 97.72,
+    "predicted_coke_wt": 7.43,
+    "predicted_gasoline_yield": 43.64,
+    "params": {
+      "zeolite_type": "ZSM-5",
+      "si_al_ratio": 50.16915175696071,
+      "unit_cell_size": 24.244252694782084,
+      "rare_earth_wt": 0.14867450368627538,
+      "matrix_alumina_wt": 18.18721655829956,
+      "binder_clay_wt": 34.03192993923741,
+      "bet_surface_area": 347.5672585247286,
+      "zeolite_surface_area": 160.98843982882832,
+      "total_pore_volume": 0.3545465658763988,
+      "bronsted_acid": 184.35279185138342,
+      "lewis_acid": 77.26230419374178,
+      "temp_c": 541.5978287919438,
+      "cat_to_oil": 6.5818453334013,
+      "residence_time": 2.6364104112637805
+    }
+  }
+]

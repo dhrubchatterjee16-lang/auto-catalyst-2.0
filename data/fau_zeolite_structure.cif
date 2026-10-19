@@ -1,0 +1,28 @@
+#======================================================================
+# CRYSTALLOGRAPHIC INFORMATION FILE (CIF)
+# Zeolite Framework Topology: Faujasite (USY) [FAU]
+# Source: International Zeolite Association (IZA-SC) Database
+# Exported by Auto-Catalyst 2.0 Crystallography Engine
+#======================================================================
+
+data_FAU
+_audit_creation_method            'Auto-Catalyst 2.0 Framework Engine'
+_chemical_name_systematic         'Zeolite Faujasite (USY)'
+_symmetry_cell_setting            cubic
+_symmetry_space_group_name_H-M    'Fd-3m'
+
+_cell_length_a                    24.265
+_cell_length_b                    24.265
+_cell_length_c                    24.265
+_cell_angle_alpha                 90.0
+_cell_angle_beta                  90.0
+_cell_angle_gamma                 90.0
+
+_chemical_formula_sum             'Si192 O384'
+_cell_formula_units_Z             1
+
+# Framework Topological Metrics
+_zeolite_ring_sizes               '[12, 6, 4]'
+_zeolite_pore_diameter_pld        7.35
+_zeolite_cavity_diameter_lcd      11.24
+_zeolite_pore_volume_fraction     0.29
