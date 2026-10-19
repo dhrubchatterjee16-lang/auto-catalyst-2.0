@@ -64,7 +64,7 @@ An autonomous, closed-loop discovery and optimization system for Fluid Catalytic
 
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/<your-username>/auto-catalyst-2.0.git
+git clone https://github.com/dhrubchatterjee16-lang/auto-catalyst-2.0.git
 cd auto-catalyst-2.0
 pip install -r requirements.txt
 ```
