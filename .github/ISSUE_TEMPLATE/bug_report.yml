@@ -1,0 +1,32 @@
+name: "🐛 Bug Report (Scientific / Code Defect)"
+description: "File a bug report for code exceptions, numerical instability, or thermodynamic divergence."
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "Thank you for reporting an issue! Please describe the problem and environment below."
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: "Bug Description"
+      description: "A clear and concise description of what the bug is."
+      placeholder: "e.g., Derivative discontinuity in Helmholtz autograd evaluation at high temperatures..."
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: "Steps to Reproduce"
+      description: "Minimal runnable code snippet to reproduce the behavior."
+      placeholder: "import torch
+from src... import ..."
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: "Environment Details"
+      description: "OS version, Python version, PyTorch version, and hardware (CPU / CUDA GPU)."
+      placeholder: "Ubuntu 22.04, Python 3.11, PyTorch 2.2.0 (CUDA 12.1)"
+    validations:
+      required: true
