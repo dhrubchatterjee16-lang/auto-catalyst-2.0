@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use Auto-Catalyst 2.0 in your research, please cite it as below."
+authors:
+  - family-names: "Chatterjee"
+    given-names: "Dhrub"
+title: "Auto-Catalyst 2.0: Autonomous AI Self-Driving Lab Platform for Heterogeneous Catalyst Discovery"
+version: 1.0.0
+date-released: 2026-10-20
+url: "https://github.com/dhrubchatterjee16-lang/auto-catalyst-2.0"
+keywords:
+  - bayesian-optimization
+  - botorch
+  - self-driving-laboratory
+  - active-learning
+  - catalysis
