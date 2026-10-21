@@ -1,5 +1,10 @@
 # Auto-Catalyst 2.0: Autonomous AI Petrochemical Discovery Platform
 
+[![CI](https://github.com/dhrubchatterjee16-lang/auto-catalyst-2.0/actions/workflows/ci.yml/badge.svg)](https://github.com/dhrubchatterjee16-lang/auto-catalyst-2.0/actions)
+[![Release](https://img.shields.io/github/v/release/dhrubchatterjee16-lang/auto-catalyst-2.0)](https://github.com/dhrubchatterjee16-lang/auto-catalyst-2.0/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![BoTorch Multi-Fidelity](https://img.shields.io/badge/Active%20Learning-BoTorch%20MF--GP-orange.svg)](https://botorch.org/)
